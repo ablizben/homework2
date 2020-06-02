@@ -1,23 +1,19 @@
 <h2>Unit 02 CSS and Bootstrap Homework: Responsive Portfolio</h2>
-<hr>
 The purpose of this homework was to create a responsive portfolio for a mobile device, utilizing Bootstrap and media queries. 
 
 <h3>Code Style</h3>
-<hr>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
 
 <h3>Prerequisites</h3>
-<hr>
 <ul>
   <li>Visual Studio Code</li>
   <li>GitHub Account</li>
 </ul>
 
- <h3>Refactoring Criteria</h3>
- <hr>
+<h3>Refactoring Criteria</h3>
 <ul>
   <li>Functional, deployed application</li>
   <li>GitHub repository with README describing the project</li>
@@ -31,9 +27,7 @@ The purpose of this homework was to create a responsive portfolio for a mobile d
 </ul>
 
 <h3>How to Push to GitHub</h3>
-<hr>
 <h4>If you have not commited a repository:</h4>
-<hr>
 <ul>
   <li>Create a new respository in GitHub</li>
   <li>Give the repository a name, set it to public, and check add a README</li>
@@ -48,7 +42,6 @@ The purpose of this homework was to create a responsive portfolio for a mobile d
   <li>Enter "git push origin master"</li>
 </ul>
 <h4>If you have commited a repository already:</h4>
-<hr>
 <ul>
   <li>Go to file in Terminal</li>
   <li>Enter "git add -A"</li>
@@ -57,7 +50,6 @@ The purpose of this homework was to create a responsive portfolio for a mobile d
 </ul>
 
 <h3>Built With</h3>
-<hr>
 <ul>
-    <li>Twitter Bootstrap 4<li>
+    <li>Twitter Bootstrap 4</li>
 </ul>
